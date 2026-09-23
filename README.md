@@ -35,9 +35,9 @@ In agricultural processing, destoning is a vital pre-milling stage used to remov
 .
 ├── assembly/
 │   └── destoner real assembly.SLDASM    # Master SolidWorks assembly file
-├── parts.                   #
-
-├── drawings                      #
+├── parts/                 
+│
+├── drawings/                      
 
 
 # Author
