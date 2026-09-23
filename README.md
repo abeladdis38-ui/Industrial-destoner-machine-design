@@ -1,6 +1,5 @@
 # Industrial Grain & Seed Destoner – 3D CAD & Mechanical Design
 
-![Destoner CAD Assembly](1000018983.jpg)
 
 ## 📌 Project Overview
 This repository contains the complete 3D CAD design, component modeling, and full mechanical assembly of an **Industrial Grain and Seed Destoner Machine**, developed using **SolidWorks**. 
@@ -11,7 +10,6 @@ In agricultural processing, destoning is a vital pre-milling stage used to remov
 
 ## 🛠️ Machine Architecture & Design Features
 
-![Exploded View](1000019010.jpg)
 
 ### 1. Fluidization Bed & Vibratory Deck (`deck.SLDPRT`, `mesh.SLDPRT`)
 * **Inclined Multi-Layer Screen:** Designed with replaceable woven wire screens angled to optimize material residence time and separation efficiency.
@@ -37,18 +35,10 @@ In agricultural processing, destoning is a vital pre-milling stage used to remov
 .
 ├── assembly/
 │   └── destoner real assembly.SLDASM    # Master SolidWorks assembly file
-├── parts/
-│   ├── frame.SLDPRT                      # Base chassis and spring mounting plates
-│   ├── deck.SLDPRT                       # Oscillating screen bed housing
-│   ├── mesh.SLDPRT                       # Woven wire screen deck
-│   ├── fan.SLDPRT                        # Centrifugal blower & impeller
-│   ├── duct.SLDPRT                       # Pneumatic extraction ducting & hood
-│   └── hopper.SLDPRT                     # Feed hopper & elevated support structure
-├── documentation/
-│   └── destoner_project_report.tex       # Complete LaTeX technical report
-└── images/
-    ├── 1000018983.jpg                    # Full assembly render
-    └── 1000019010.jpg                    # Exploded assembly view
+├── parts.                   #
+
+├── drawings                      #
+
 
 # Author
 Abel Addis
