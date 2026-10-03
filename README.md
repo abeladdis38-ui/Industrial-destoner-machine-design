@@ -2,7 +2,7 @@
 
 
 ## 📌 Project Overview
-This repository contains the complete 3D CAD design, component modeling, and full mechanical assembly of an **Industrial Grain and Seed Destoner Machine**, developed using **SolidWorks**. 
+This repository contains the documentation, complete 3D CAD design, component modeling, and full mechanical assembly of an **Industrial Grain and Seed Destoner Machine**, with a capacity of processing 3 ton per hour for wheat, developed using **SolidWorks**. 
 
 In agricultural processing, destoning is a vital pre-milling stage used to remove high-density foreign contaminants—such as stones, glass, metal fragments, and soil clods—from grains and seeds. This project demonstrates the practical design of an industrial-grade separation machine integrating **Induction Fan**, **vibro Motors**, and **structural vibration isolation**.
 
@@ -12,7 +12,7 @@ In agricultural processing, destoning is a vital pre-milling stage used to remov
 
 
 ### 1. Induction fan duct system & Vibratory Deck (`deck.SLDPRT`, `mesh.SLDPRT`)
-* **Inclined Multi-Layer Screen:** Designed with replaceable woven wire screens angled to optimize material residence time and separation efficiency.
+* **Inclined Dual-Deck Screen:** Designed with replaceable woven wire screens angled to optimize material residence time and separation efficiency.
 * **Structural Support:** Internal array of transverse tubular cross-members engineered to resist cyclic fatigue from continuous vibration.
 
 ### 2. Vibratory Drive & Isolation System (`frame.SLDPRT`)
