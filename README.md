@@ -2,7 +2,7 @@
 
 
 ## 📌 Project Overview
-This repository contains the documentation, complete 3D CAD design, component modeling, and full mechanical assembly of an **Industrial Grain and Seed Destoner Machine**, with a capacity of processing 3 ton per hour for wheat, developed using **SolidWorks**. 
+This repository contains the documentation, complete 3D CAD design, component modeling, and full mechanical assembly of an **Industrial Grain and Seed Destoner Machine**, with a capacity of processing 3 ton per hour of wheat, developed using **SolidWorks**. 
 
 In agricultural processing, destoning is a vital pre-milling stage used to remove high-density foreign contaminants—such as stones, glass, metal fragments, and soil clods—from grains and seeds. This project demonstrates the practical design of an industrial-grade separation machine integrating **Induction Fan**, **vibro Motors**, and **structural vibration isolation**.
 
