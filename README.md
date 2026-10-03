@@ -33,6 +33,7 @@ In agricultural processing, destoning is a vital pre-milling stage used to remov
 
 ```text
 .
+├── Documentation pdf(Industrial seed and grain destoner machine design.pdf)
 ├── assembly/
 │   └── destoner real assembly.SLDASM    # Master SolidWorks assembly file
 ├── parts/                 
